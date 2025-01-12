@@ -1,0 +1,110 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-ggdb",
+      "-I",
+      "include/",
+      "-o",
+      "build/components/render.o",
+      "src/components/render.c"
+    ],
+    "directory": "/home/astro/projects/galaxy_gen",
+    "file": "/home/astro/projects/galaxy_gen/src/components/render.c",
+    "output": "/home/astro/projects/galaxy_gen/build/components/render.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-ggdb",
+      "-I",
+      "include/",
+      "-o",
+      "build/components/transform.o",
+      "src/components/transform.c"
+    ],
+    "directory": "/home/astro/projects/galaxy_gen",
+    "file": "/home/astro/projects/galaxy_gen/src/components/transform.c",
+    "output": "/home/astro/projects/galaxy_gen/build/components/transform.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-ggdb",
+      "-I",
+      "include/",
+      "-o",
+      "build/core/main.o",
+      "src/core/main.c"
+    ],
+    "directory": "/home/astro/projects/galaxy_gen",
+    "file": "/home/astro/projects/galaxy_gen/src/core/main.c",
+    "output": "/home/astro/projects/galaxy_gen/build/core/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-ggdb",
+      "-I",
+      "include/",
+      "-o",
+      "build/core/state.o",
+      "src/core/state.c"
+    ],
+    "directory": "/home/astro/projects/galaxy_gen",
+    "file": "/home/astro/projects/galaxy_gen/src/core/state.c",
+    "output": "/home/astro/projects/galaxy_gen/build/core/state.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-ggdb",
+      "-I",
+      "include/",
+      "-o",
+      "build/core/uiFramework.o",
+      "src/core/uiFramework.c"
+    ],
+    "directory": "/home/astro/projects/galaxy_gen",
+    "file": "/home/astro/projects/galaxy_gen/src/core/uiFramework.c",
+    "output": "/home/astro/projects/galaxy_gen/build/core/uiFramework.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-ggdb",
+      "-I",
+      "include/",
+      "-o",
+      "build/utils/window.o",
+      "src/utils/window.c"
+    ],
+    "directory": "/home/astro/projects/galaxy_gen",
+    "file": "/home/astro/projects/galaxy_gen/src/utils/window.c",
+    "output": "/home/astro/projects/galaxy_gen/build/utils/window.o"
+  }
+]
